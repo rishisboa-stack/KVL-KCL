@@ -30,3 +30,6 @@ Sl. No. Apparatus Specification Quantity
 
 ## Result:  
 
+<img width="1574" height="714" alt="Screenshot 2025-12-02 111431" src="https://github.com/user-attachments/assets/8fbf4a79-c82e-48d0-bbe4-768d3d51a504" />
+<img width="1682" height="747" alt="Screenshot 2025-12-02 111545" src="https://github.com/user-attachments/assets/1301a900-c550-462b-9fb6-7c9946056800" />
+
